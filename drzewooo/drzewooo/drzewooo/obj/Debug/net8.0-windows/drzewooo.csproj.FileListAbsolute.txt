@@ -1,0 +1,32 @@
+C:\kocham studia\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.exe
+C:\kocham studia\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.deps.json
+C:\kocham studia\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.runtimeconfig.json
+C:\kocham studia\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.dll
+C:\kocham studia\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.pdb
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.Form1.resources
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.csproj.GenerateResource.cache
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.AssemblyInfoInputs.cache
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.AssemblyInfo.cs
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.csproj.CoreCompileInputs.cache
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.dll
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\refint\drzewooo.dll
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.pdb
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.genruntimeconfig.cache
+C:\kocham studia\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\ref\drzewooo.dll
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.exe
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.deps.json
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.runtimeconfig.json
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.dll
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\bin\Debug\net8.0-windows\drzewooo.pdb
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.Form1.resources
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.csproj.GenerateResource.cache
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.AssemblyInfoInputs.cache
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.AssemblyInfo.cs
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.csproj.CoreCompileInputs.cache
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.dll
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\refint\drzewooo.dll
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.pdb
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\drzewooo.genruntimeconfig.cache
+C:\AISD prace domowe\drzewooo\drzewooo\drzewooo\obj\Debug\net8.0-windows\ref\drzewooo.dll

@@ -1,0 +1,33 @@
+C:\Users\pradzio\source\repos\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.exe
+C:\Users\pradzio\source\repos\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.deps.json
+C:\Users\pradzio\source\repos\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.runtimeconfig.json
+C:\Users\pradzio\source\repos\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.dll
+C:\Users\pradzio\source\repos\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.pdb
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.Form1.resources
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.csproj.GenerateResource.cache
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.AssemblyInfoInputs.cache
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.AssemblyInfo.cs
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.csproj.CoreCompileInputs.cache
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.dll
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\refint\sortowania.dll
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.pdb
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.genruntimeconfig.cache
+C:\Users\pradzio\source\repos\sortowania\sortowania\obj\Debug\net8.0-windows\ref\sortowania.dll
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.exe
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.deps.json
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.runtimeconfig.json
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.dll
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\bin\Debug\net8.0-windows\sortowania.pdb
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.Form1.resources
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.csproj.GenerateResource.cache
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.AssemblyInfoInputs.cache
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.AssemblyInfo.cs
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.csproj.CoreCompileInputs.cache
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.sourcelink.json
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.dll
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\refint\sortowania.dll
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.pdb
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\sortowania.genruntimeconfig.cache
+C:\Szkola jebana kurwa mac\AISD\sortowania\sortowania\obj\Debug\net8.0-windows\ref\sortowania.dll
