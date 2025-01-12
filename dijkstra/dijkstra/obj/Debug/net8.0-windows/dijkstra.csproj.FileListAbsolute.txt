@@ -1,0 +1,33 @@
+C:\AISD prace domowe\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.exe
+C:\AISD prace domowe\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.deps.json
+C:\AISD prace domowe\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.runtimeconfig.json
+C:\AISD prace domowe\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.dll
+C:\AISD prace domowe\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.pdb
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.csproj.GenerateResource.cache
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.AssemblyInfoInputs.cache
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.AssemblyInfo.cs
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.csproj.CoreCompileInputs.cache
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.dll
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\refint\dijkstra.dll
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.pdb
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.genruntimeconfig.cache
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\ref\dijkstra.dll
+C:\AISD prace domowe\dijkstra\dijkstra\obj\Debug\net8.0-windows\GrafApp1.Form1.resources
+C:\kurwalekcje\aisd\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.exe
+C:\kurwalekcje\aisd\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.deps.json
+C:\kurwalekcje\aisd\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.runtimeconfig.json
+C:\kurwalekcje\aisd\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.dll
+C:\kurwalekcje\aisd\dijkstra\dijkstra\bin\Debug\net8.0-windows\dijkstra.pdb
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\GrafApp1.Form1.resources
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.csproj.GenerateResource.cache
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.AssemblyInfoInputs.cache
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.AssemblyInfo.cs
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.csproj.CoreCompileInputs.cache
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.sourcelink.json
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.dll
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\refint\dijkstra.dll
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.pdb
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\dijkstra.genruntimeconfig.cache
+C:\kurwalekcje\aisd\dijkstra\dijkstra\obj\Debug\net8.0-windows\ref\dijkstra.dll
