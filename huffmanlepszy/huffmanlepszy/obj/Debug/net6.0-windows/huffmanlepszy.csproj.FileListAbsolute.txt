@@ -1,0 +1,17 @@
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.Properties.Resources.resources
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.csproj.GenerateResource.cache
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.AssemblyInfoInputs.cache
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.AssemblyInfo.cs
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.csproj.CoreCompileInputs.cache
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\bin\Debug\net6.0-windows\huffmanlepszy.exe
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\bin\Debug\net6.0-windows\huffmanlepszy.deps.json
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\bin\Debug\net6.0-windows\huffmanlepszy.runtimeconfig.json
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\bin\Debug\net6.0-windows\huffmanlepszy.dll
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\bin\Debug\net6.0-windows\huffmanlepszy.pdb
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.dll
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\refint\huffmanlepszy.dll
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.pdb
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.genruntimeconfig.cache
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\ref\huffmanlepszy.dll
+C:\Users\Gilo\Desktop\huffmanlepszy\huffmanlepszy\obj\Debug\net6.0-windows\huffmanlepszy.Form1.resources

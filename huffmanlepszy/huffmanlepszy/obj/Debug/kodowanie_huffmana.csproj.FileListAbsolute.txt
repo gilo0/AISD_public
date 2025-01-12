@@ -1,0 +1,10 @@
+C:\Users\Karol\source\repos\kodowanie_huffmana\bin\Debug\kodowanie_huffmana.exe.config
+C:\Users\Karol\source\repos\kodowanie_huffmana\bin\Debug\kodowanie_huffmana.exe
+C:\Users\Karol\source\repos\kodowanie_huffmana\bin\Debug\kodowanie_huffmana.pdb
+C:\Users\Karol\source\repos\kodowanie_huffmana\obj\Debug\kodowanie_huffmana.csproj.AssemblyReference.cache
+C:\Users\Karol\source\repos\kodowanie_huffmana\obj\Debug\kodowanie_huffmana.Form1.resources
+C:\Users\Karol\source\repos\kodowanie_huffmana\obj\Debug\kodowanie_huffmana.Properties.Resources.resources
+C:\Users\Karol\source\repos\kodowanie_huffmana\obj\Debug\kodowanie_huffmana.csproj.GenerateResource.cache
+C:\Users\Karol\source\repos\kodowanie_huffmana\obj\Debug\kodowanie_huffmana.csproj.CoreCompileInputs.cache
+C:\Users\Karol\source\repos\kodowanie_huffmana\obj\Debug\kodowanie_huffmana.exe
+C:\Users\Karol\source\repos\kodowanie_huffmana\obj\Debug\kodowanie_huffmana.pdb
